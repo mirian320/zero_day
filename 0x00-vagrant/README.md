@@ -1,1 +1,2 @@
-setup vagrant and code
+#!bin/bash
+*setup vagrant and code*
